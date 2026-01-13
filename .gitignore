@@ -9,3 +9,46 @@ __pycache__/
 .ipynb_checkpoints/
 lectures/lec13_20251028/api_keys.yaml
 /.luarc.json
+
+# problem sets
+problemsets/pset1/pset1_blank.pdf
+problemsets/pset2/
+problemsets/pset3/
+problemsets/pset4/
+problemsets/pset5/
+problemsets/pset6/
+problemsets/pset7/
+problemsets/pset8/
+
+# lectures
+# lectures/lec02/
+# lectures/lec03/
+lectures/lec04/
+lectures/lec05/
+lectures/lec06/
+lectures/lec07/
+lectures/lec08/
+lectures/lec09/
+lectures/lec10/
+lectures/lec11/
+lectures/lec12/
+lectures/lec13/
+lectures/lec14/
+lectures/lec15/
+
+
+# activity solutions
+# activity_solutions/lec02_activity.ipynb
+activity_solutions/lec03_activity.ipynb
+activity_solutions/lec04_activity.ipynb
+activity_solutions/lec05_activity.ipynb
+activity_solutions/lec06_activity.ipynb
+activity_solutions/lec07_activity.ipynb
+activity_solutions/lec08_activity.ipynb
+activity_solutions/lec09_activity.ipynb
+activity_solutions/lec10_activity.ipynb
+activity_solutions/lec11_activity.ipynb
+activity_solutions/lec12_activity.ipynb
+activity_solutions/lec13_activity.ipynb
+activity_solutions/lec14_activity.ipynb
+activity_solutions/lec15_activity.ipynb
